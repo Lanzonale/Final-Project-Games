@@ -1,3 +1,4 @@
+# 初版 能过提交 但是没有任何辅助 可能残留一些没修的逻辑
 import random
 import math
 
