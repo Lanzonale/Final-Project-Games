@@ -1,3 +1,4 @@
+#加了点启发式评估分数 考虑限制MTCS中最大探索深度
 import random
 import math
 
