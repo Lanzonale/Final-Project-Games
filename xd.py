@@ -1,3 +1,4 @@
+#select child和expand加入了优先考虑三缺一=inf返回此列的逻辑 但是实际上对角线类型的三缺一还是会漏掉？考虑修正evaluate_column函数
 import random
 import math
 import time
